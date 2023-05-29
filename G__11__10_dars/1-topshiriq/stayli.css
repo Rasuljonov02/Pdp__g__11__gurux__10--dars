@@ -1,0 +1,315 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+  color: black;
+  box-sizing: border-box;
+}
+body {
+  background: #aa9c9c;
+}
+.fuud {
+  padding: 10px;
+  display: flex;
+  background-color: rgb(222, 105, 16);
+  align-items: center;
+  justify-content: space-around;
+}
+.en {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+}
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+  padding: 10px;
+  background-color: aliceblue;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.login .food {
+  display: flex;
+  gap: 1rem;
+}
+.word {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 50px;
+  gap: 4rem;
+  margin-top: 150px;
+}
+a {
+  text-decoration: none;
+}
+.devise {
+  display: flex;
+  gap: 1rem;
+}
+.enter input {
+  padding: 20px 0 25px 60px;
+  width: 550px;
+  background: #ffffff;
+  border: 1.3px solid #f2f2f2;
+  box-shadow: 2px 4px 22px rgba(99, 41, 23, 0.07);
+  border-radius: 0px 1px 1px 1px;
+}
+
+.enter img {
+  position: relative;
+  right: 530px;
+  top: 8px;
+}
+.enter a {
+  color: aliceblue;
+  padding: 10px 25px;
+  background-color: rgb(230, 92, 18);
+  position: relative;
+  right: 160px;
+  top: 4px;
+  border-radius: 8px;
+}
+.devise a {
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  gap: 1rem;
+  background-color: rgb(205, 202, 198);
+}
+.devise .alohidaa {
+  background-color: rgb(235, 104, 28);
+}
+
+.jj {
+  display: flex;
+}
+
+.daliymenu {
+  bottom: 80px;
+  padding: 8px;
+  background-color: #f2f2f2;
+  width: 250px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  height: 50px;
+  left: 70px;
+  bottom: 120px;
+}
+.daliqymenqu {
+  bottom: 80px;
+  padding: 8px;
+  background-color: #f2f2f2;
+  width: 250px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  height: 50px;
+  left: 70px;
+  bottom: 120px;
+}
+.menular .daliymenuq {
+  bottom: 80px;
+  padding: 8px;
+  background-color: #f2f2f2;
+  width: 250px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  height: 50px;
+  left: 70px;
+  bottom: 120px;
+}
+.menular .dfgf {
+  width: 400px;
+}
+.asdf {
+  width: 400px;
+}
+.rfrf {
+  width: 400px;
+}
+.lklk {
+  display: flex;
+  gap: 1rem;
+}
+.qwer {
+  width: 1064px;
+  position: absolute;
+  left: 250px;
+  top: 88px;
+}
+.category {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.box {
+  padding-left: 80px;
+}
+
+.bo1 img {
+  padding: 10px;
+  border: 1px solid wheat;
+  transition: 1s all;
+}
+
+.bo1 img:hover {
+  transform: scale(0.9);
+}
+.salom {
+  text-align: center;
+}
+.toppp {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.toppp p {
+  background: #ff7a50;
+  border-radius: 3px;
+  padding: 8px 30px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.katakon {
+  display: flex;
+  gap: 2rem;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+.con {
+  display: flex;
+  justify-content: space-around;
+}
+.dos {
+  gap: 1.5rem;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  border-radius: 10px;
+  box-shadow: rgba(204, 181, 52, 0.932) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.bdd {
+  width: 300px;
+  height: 220px;
+}
+.kc {
+  display: flex;
+  justify-content: space-around;
+}
+del {
+  opacity: 0.7;
+}
+button {
+  background-color: #ca451c;
+  padding: 5px 10px;
+  color: #f2f2f2;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.ojregno {
+  margin-left: 45%;
+  width: 160px;
+}
+.kok {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 80px;
+  align-items: center;
+  justify-content: space-around;
+}
+.sariq {
+  background-color: #ff7a50;
+  margin-top: 60px;
+
+  height: 550px;
+}
+.appp {
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.play {
+  display: flex;
+  gap: 2rem;
+}
+.telefonlar {
+  margin-top: 50px;
+}
+h1 {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.jiyan {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+.tilla {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.lover {
+  display: flex;
+  gap: 4rem;
+}
+.alexsmit {
+  color: #bf5b3c;
+}
+.meew {
+  display: flex;
+  justify-content: space-around;
+  background-color: #dcd6d6;
+  height: 250px;
+  padding: 20px;
+}
+.menular {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.iconsa {
+  display: flex;
+  gap: 1rem;
+}
+.menular p {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+hr {
+  border: 1px solid rgb(255, 0, 0);
+  width: 1200px;
+  position: relative;
+  left: 60px;
+}
+.jek {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.lenove {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}

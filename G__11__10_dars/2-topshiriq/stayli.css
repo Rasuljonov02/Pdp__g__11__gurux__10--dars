@@ -1,0 +1,348 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito";
+  font-style: normal;
+  color: black;
+  box-sizing: border-box;
+}
+
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+.home {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+}
+.div .a {
+  background-color: red;
+  padding: 8px 25px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.salom {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 60px;
+}
+.ifd img {
+  width: 700px;
+  margin-top: 50px;
+}
+.ice {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4rem;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.ice button {
+  padding: 8px 25px;
+  border-radius: 10px;
+  background: #d92520;
+  box-shadow: inset 15px 8px 38px rgba(96, 9, 8, 0.986);
+  border-radius: 50px;
+}
+.falal {
+  background: #dabebe;
+}
+.zaazaz {
+  display: flex;
+  gap: 20px;
+}
+.zaazaz p {
+  color: #fa7154;
+}
+.zaazaz .cvvvv {
+  color: black;
+  position: relative;
+  top: 50px;
+  right: 290px;
+}
+.rangbarang {
+  display: flex;
+  padding-top: 100px;
+  padding-left: 80px;
+  gap: 2rem;
+}
+.uchta {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: 300px;
+}
+.uchta img {
+  padding: 15px;
+  background: #93e3e3;
+  box-shadow: 0px 0px 4px 1px rgba(26, 23, 23, 0.979);
+  border-radius: 10px;
+}
+.c {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 233, 226, 1) 100%);
+  padding: 20px;
+  border-radius: 20px;
+}
+.v {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 233, 226, 1) 100%);
+  padding: 20px;
+  border-radius: 20px;
+}
+.s {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 233, 226, 1) 100%);
+  padding: 20px;
+  border-radius: 20px;
+}
+.uchta a {
+  color: blue;
+}
+.qoravoy {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.chap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.ong {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.dollr {
+  display: flex;
+  gap: 4rem;
+}
+.dollrr {
+  display: flex;
+  gap: 2rem;
+}
+.dollr a {
+  background-color: #d92520;
+  padding: 8px 25px;
+  border-radius: 15px;
+}
+.dollr .op {
+  background-color: #fff;
+  padding: 8px 25px;
+  border-radius: 15px;
+  color: #d92520;
+  border: 1px solid rgb(177, 140, 71);
+}
+.qwee {
+  color: #d92520;
+  background: #d927;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+.dollrr h4 {
+  color: #e23b19;
+}
+.dada {
+  display: flex;
+  margin-top: 100px;
+}
+.odiy {
+  gap: 1rem;
+  display: flex;
+  flex-direction: row;
+  background: #ffffff;
+  box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, 0.575);
+  border-radius: 15px;
+  padding: 10px;
+}
+.iceq {
+  /* display: flex; */
+}
+.akam {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 100px;
+}
+.zxcvb {
+  display: flex;
+  gap: 2rem;
+}
+.lll {
+  border: 1px solid rgba(206, 36, 30, 0.877);
+  box-shadow: inset 15px 8px 38px rgba(96, 10, 8, 0.2);
+  border-radius: 50px;
+  padding: 8px 20px;
+  color: #d92520;
+}
+a:hover {
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+}
+.hola {
+  display: flex;
+  box-sizing: border-box;
+  height: 500px;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  background: #9c8383;
+  width: 1310px;
+  margin-top: 150px;
+}
+.opa {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-left: 130px;
+}
+.publ {
+  display: flex;
+  gap: 2rem;
+}
+.qweeee {
+  background: #cabfbf;
+  border-radius: 50px;
+  width: 120px;
+  padding: 8px 20px;
+  color: #fa7154;
+}
+.kiyan {
+  margin-bottom: 270px;
+}
+.akahinkar {
+  display: flex;
+
+  background-color: rgb(88, 58, 58);
+  height: 700px;
+}
+.koz {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  transform: rotate(19.38deg);
+}
+img[src="./img/0202.png"] {
+  width: 600px;
+}
+.kalla {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-top: 200px;
+  margin-left: 50px;
+}
+.comolahalom {
+  color: #e23b19;
+}
+.chiziq hr {
+  width: 30px;
+}
+.chiziq {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.pubg img {
+  filter: blur(4px);
+  border-radius: 20px;
+  margin-left: 15%;
+  position: relative;
+  bottom: 100px;
+}
+.yourraara {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  position: relative;
+  top: 200px;
+  z-index: 1;
+  color: var(--bg);
+}
+.pubg {
+  margin-top: 80px;
+}
+.tuhmalard {
+  display: flex;
+  gap: 2rem;
+}
+.tuhmalard a {
+  background: #d92520;
+  box-shadow: inset 15px 8px 38px rgba(96, 10, 8, 0.2);
+  border-radius: 50px;
+  padding: 8px 20px;
+}
+.tuhmalard .op {
+  background: #ccc4c3;
+  box-shadow: inset 15px 8px 38px rgba(96, 10, 8, 0.2);
+  border-radius: 50px;
+  padding: 8px 20px;
+}
+.yourraara h1 {
+  color: #fff;
+}
+.yourraara h5 {
+  background: #ffffff;
+  border: 0.5px solid rgba(23, 12, 12, 0.66);
+  border-radius: 4px;
+  padding: 5px 20px;
+}
+.yourraara a {
+  color: #fff;
+}
+.loremmmm {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(110, 103, 103);
+  color: #fff;
+  height: 300px;
+}
+.vvvv {
+  display: flex;
+  gap: 1rem;
+}
+.newsletter {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
+.loremmmm span {
+  margin-top: 50px;
+}
+.vvvv img {
+  border: 1px solid white;
+  padding: 10px;
+}
+.bx2 {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.box1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2rem;
+}
+.newsletter input {
+  padding: 5px 10px;
+}
+.newsletter button {
+  padding: 5px 10px;
+  background-color: #9c8383;
+  border: 1px solid wheat;
+}
